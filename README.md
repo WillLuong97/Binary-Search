@@ -71,3 +71,10 @@ def binarySearch(arr, l, r, x):
 	#if we reach here, then the element was not found
 	return -1
 ```
+
+## Time  and Space complexity
+
+- The time complexity of the binary search algorithm belongs to the O(log n) class. This time complexity remains unchanged irrespective of the element position even if it is not in the array
+
+- Space complexity is O(1) as the algorithm as each time, the algorithm only looks at 1 element. 
+
